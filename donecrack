@@ -26,6 +26,8 @@ elseif Pl == 18337464872 then -- Weak Legacy
 
 elseif Pl == 18688206652 then -- Ijulpiece2
     loadstring(game:HttpGet("https://pst.innomi.net/paste/e4bm3zc67efhx2nd5xo6h9z4/raw"))()
+elseif Pl == 16448761503 then -- Rung sea
+    loadstring(game:HttpGet("https://pst.innomi.net/paste/e4bm3zc67efhx2nd5xo6h9z4/raw"))()
 
 else
     game.Players.LocalPlayer:Kick("Script Not Found Map")
